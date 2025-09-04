@@ -1,0 +1,7 @@
+{
+  "name": "Climate Shield AI",
+  "description": "An AI-powered web application for simulated real-time disaster prediction and safety alerts. It uses the Gemini API to provide timely warnings and safety instructions, helping users learn about preparedness for natural calamities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
